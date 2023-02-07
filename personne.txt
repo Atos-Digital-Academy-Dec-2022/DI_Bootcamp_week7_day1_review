@@ -1,0 +1,21 @@
+ Contact 
+Nom : df
+Prenom : dfsdf
+Age : dfsdf
+Adresse : 
+taille : fdsfs
+-------------------------------------- 
+ Contact 
+Nom : test
+Prenom : demo
+Age : 67
+Adresse : 
+taille : 1.85
+-------------------------------------- 
+ Contact 
+Nom : dsfds
+Prenom : dfsdfsd
+Age : dfdsfsd
+Adresse : 
+taille : dfsdfsd
+-------------------------------------- 
